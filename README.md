@@ -1,1 +1,1 @@
-# CrewAI Research Dossier Builder (v2)\n\nCLI-first skeleton. See /src for core library and /src/interfaces for entry points.\n
+# CrewAI Research Dossier Builder
