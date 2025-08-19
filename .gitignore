@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Byte-compiled / cache
+*.egg-info/
+*.egg
+.eggs/
+*.manifest
+*.spec
+
+# Build artifacts
+build/
+dist/
+
+# Logs
+*.log
+
+# Project-specific
+runs/
+.env
+.env.*
+!.env.example
+uv.lock
+
+# VS Code / IDE
+.vscode/
+.idea/

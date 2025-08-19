@@ -1,0 +1,1 @@
+# Researcher prompt (strict JSON)\n

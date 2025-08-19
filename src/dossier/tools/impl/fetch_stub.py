@@ -1,0 +1,1 @@
+'''fetch_stub.fetch(url)->str: returns placeholder content.'''\n

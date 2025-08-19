@@ -1,0 +1,1 @@
+# Editor prompt (strict JSON)\n

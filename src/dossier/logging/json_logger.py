@@ -1,0 +1,1 @@
+'''JSON logger helper (stub).'''\n

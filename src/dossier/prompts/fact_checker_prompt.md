@@ -1,0 +1,1 @@
+# Fact-Checker prompt (strict JSON)\n

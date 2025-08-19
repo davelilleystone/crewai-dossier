@@ -1,0 +1,1 @@
+'''Stub Fact-Checker agent.'''\n

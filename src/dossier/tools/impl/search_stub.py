@@ -1,0 +1,1 @@
+'''search_stub.search(query)->list: returns fixed results for E2E test.'''\n

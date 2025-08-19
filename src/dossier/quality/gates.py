@@ -1,0 +1,1 @@
+'''Quality gates: 3 bullets, risks 2–3 sentences, ≥3 cites ≥2 domains.'''\n

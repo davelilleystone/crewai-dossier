@@ -1,0 +1,9 @@
+topic: ""
+audience: "general"
+depth: "standard"   # standard | deep
+rounds: 2
+output_dir: "runs"
+
+logging:
+  level: INFO
+  json: true

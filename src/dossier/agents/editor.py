@@ -1,0 +1,1 @@
+'''Stub Editor agent.'''\n

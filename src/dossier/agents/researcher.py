@@ -1,0 +1,1 @@
+'''Stub Researcher agent.'''\n

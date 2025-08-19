@@ -1,0 +1,1 @@
+'''Simple file-backed cache adapter (stub).'''\n
