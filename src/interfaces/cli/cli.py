@@ -41,10 +41,12 @@ parser.add_argument(
 args = parser.parse_args()
 
 # Pass args explicitly as keywords
-run(
+run_values = run(
     topic=args.topic,
     audience=args.audience,
     depth=args.depth,
     rounds=args.rounds,
     config=None,
 )
+
+print(run_values)
