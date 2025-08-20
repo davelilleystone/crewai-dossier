@@ -2,6 +2,12 @@
 import argparse
 from inspect import signature, _empty
 from dossier.pipeline import run
+from dotenv import load_dotenv
+from utils import check_api_key
+
+# load environment variables and check OpenAI key is loaded
+load_dotenv()
+check_api_key("OPENAI_API_KEY")
 
 sig = signature(run)
 
